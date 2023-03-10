@@ -1,0 +1,11 @@
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\bin\Debug\Nilesh's Business.exe.config
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\bin\Debug\Nilesh's Business.exe
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\bin\Debug\Nilesh's Business.pdb
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.csproj.AssemblyReference.cache
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh_s_Business.Form1.resources
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh_s_Business.Properties.Resources.resources
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.csproj.GenerateResource.cache
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.exe
+C:\Users\lucasziN\source\repos\Nilesh's Business\Nilesh's Business\obj\Debug\Nilesh's Business.pdb
