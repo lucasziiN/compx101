@@ -1,0 +1,11 @@
+C:\Users\lucasziN\source\repos\square\square\bin\Debug\square.exe.config
+C:\Users\lucasziN\source\repos\square\square\bin\Debug\square.exe
+C:\Users\lucasziN\source\repos\square\square\bin\Debug\square.pdb
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.csproj.AssemblyReference.cache
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.Form1.resources
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.Properties.Resources.resources
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.csproj.GenerateResource.cache
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.exe
+C:\Users\lucasziN\source\repos\square\square\obj\Debug\square.pdb
