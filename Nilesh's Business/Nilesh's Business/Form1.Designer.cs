@@ -33,15 +33,15 @@
             this.buttonExit = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.drivewayLength = new System.Windows.Forms.TextBox();
-            this.drivewayWidth = new System.Windows.Forms.TextBox();
+            this.textBoxDrivewayLength = new System.Windows.Forms.TextBox();
+            this.textBoxDrivewayWidth = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.cementRequired = new System.Windows.Forms.TextBox();
-            this.concreteRequired = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxCementRequired = new System.Windows.Forms.TextBox();
+            this.textBoxConcreteRequired = new System.Windows.Forms.TextBox();
+            this.textBoxBagsRequired = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBoxTotalCost = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -96,19 +96,19 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Driveway Width";
             // 
-            // drivewayLength
+            // textBoxDrivewayLength
             // 
-            this.drivewayLength.Location = new System.Drawing.Point(228, 62);
-            this.drivewayLength.Name = "drivewayLength";
-            this.drivewayLength.Size = new System.Drawing.Size(132, 20);
-            this.drivewayLength.TabIndex = 6;
+            this.textBoxDrivewayLength.Location = new System.Drawing.Point(228, 62);
+            this.textBoxDrivewayLength.Name = "textBoxDrivewayLength";
+            this.textBoxDrivewayLength.Size = new System.Drawing.Size(132, 20);
+            this.textBoxDrivewayLength.TabIndex = 6;
             // 
-            // drivewayWidth
+            // textBoxDrivewayWidth
             // 
-            this.drivewayWidth.Location = new System.Drawing.Point(583, 62);
-            this.drivewayWidth.Name = "drivewayWidth";
-            this.drivewayWidth.Size = new System.Drawing.Size(132, 20);
-            this.drivewayWidth.TabIndex = 7;
+            this.textBoxDrivewayWidth.Location = new System.Drawing.Point(583, 62);
+            this.textBoxDrivewayWidth.Name = "textBoxDrivewayWidth";
+            this.textBoxDrivewayWidth.Size = new System.Drawing.Size(132, 20);
+            this.textBoxDrivewayWidth.TabIndex = 7;
             // 
             // label4
             // 
@@ -132,29 +132,29 @@
             this.label5.Text = "Kilograms of Cement Required";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
-            // cementRequired
+            // textBoxCementRequired
             // 
-            this.cementRequired.Location = new System.Drawing.Point(512, 288);
-            this.cementRequired.Name = "cementRequired";
-            this.cementRequired.Size = new System.Drawing.Size(80, 20);
-            this.cementRequired.TabIndex = 10;
-            this.cementRequired.TextChanged += new System.EventHandler(this.cementRequired_TextChanged);
+            this.textBoxCementRequired.Location = new System.Drawing.Point(512, 288);
+            this.textBoxCementRequired.Name = "textBoxCementRequired";
+            this.textBoxCementRequired.Size = new System.Drawing.Size(80, 20);
+            this.textBoxCementRequired.TabIndex = 10;
+            this.textBoxCementRequired.TextChanged += new System.EventHandler(this.cementRequired_TextChanged);
             // 
-            // concreteRequired
+            // textBoxConcreteRequired
             // 
-            this.concreteRequired.Location = new System.Drawing.Point(512, 176);
-            this.concreteRequired.Name = "concreteRequired";
-            this.concreteRequired.Size = new System.Drawing.Size(80, 20);
-            this.concreteRequired.TabIndex = 11;
-            this.concreteRequired.TextChanged += new System.EventHandler(this.concreteRequired_TextChanged);
+            this.textBoxConcreteRequired.Location = new System.Drawing.Point(512, 176);
+            this.textBoxConcreteRequired.Name = "textBoxConcreteRequired";
+            this.textBoxConcreteRequired.Size = new System.Drawing.Size(80, 20);
+            this.textBoxConcreteRequired.TabIndex = 11;
+            this.textBoxConcreteRequired.TextChanged += new System.EventHandler(this.concreteRequired_TextChanged);
             // 
-            // textBox1
+            // textBoxBagsRequired
             // 
-            this.textBox1.Location = new System.Drawing.Point(512, 216);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(80, 20);
-            this.textBox1.TabIndex = 13;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBoxBagsRequired.Location = new System.Drawing.Point(512, 216);
+            this.textBoxBagsRequired.Name = "textBoxBagsRequired";
+            this.textBoxBagsRequired.Size = new System.Drawing.Size(80, 20);
+            this.textBoxBagsRequired.TabIndex = 13;
+            this.textBoxBagsRequired.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label6
             // 
@@ -167,13 +167,13 @@
             this.label6.Text = "Bags of Concrete Required";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
-            // textBox2
+            // textBoxTotalCost
             // 
-            this.textBox2.Location = new System.Drawing.Point(512, 332);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(80, 20);
-            this.textBox2.TabIndex = 15;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.textBoxTotalCost.Location = new System.Drawing.Point(512, 332);
+            this.textBoxTotalCost.Name = "textBoxTotalCost";
+            this.textBoxTotalCost.Size = new System.Drawing.Size(80, 20);
+            this.textBoxTotalCost.TabIndex = 15;
+            this.textBoxTotalCost.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label3
             // 
@@ -191,16 +191,16 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBoxTotalCost);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBoxBagsRequired);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.concreteRequired);
-            this.Controls.Add(this.cementRequired);
+            this.Controls.Add(this.textBoxConcreteRequired);
+            this.Controls.Add(this.textBoxCementRequired);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.drivewayWidth);
-            this.Controls.Add(this.drivewayLength);
+            this.Controls.Add(this.textBoxDrivewayWidth);
+            this.Controls.Add(this.textBoxDrivewayLength);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonExit);
@@ -220,15 +220,15 @@
         private System.Windows.Forms.Button buttonExit;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox drivewayLength;
-        private System.Windows.Forms.TextBox drivewayWidth;
+        private System.Windows.Forms.TextBox textBoxDrivewayLength;
+        private System.Windows.Forms.TextBox textBoxDrivewayWidth;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox cementRequired;
-        private System.Windows.Forms.TextBox concreteRequired;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxCementRequired;
+        private System.Windows.Forms.TextBox textBoxConcreteRequired;
+        private System.Windows.Forms.TextBox textBoxBagsRequired;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBoxTotalCost;
         private System.Windows.Forms.Label label3;
     }
 }
