@@ -29,25 +29,40 @@
         private void InitializeComponent()
         {
             this.pictureBoxDisplay = new System.Windows.Forms.PictureBox();
+            this.buttonSetColour = new System.Windows.Forms.Button();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDisplay)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBoxDisplay
             // 
-            this.pictureBoxDisplay.Location = new System.Drawing.Point(0, 0);
+            this.pictureBoxDisplay.Location = new System.Drawing.Point(12, 12);
             this.pictureBoxDisplay.Name = "pictureBoxDisplay";
-            this.pictureBoxDisplay.Size = new System.Drawing.Size(1004, 578);
+            this.pictureBoxDisplay.Size = new System.Drawing.Size(980, 554);
             this.pictureBoxDisplay.TabIndex = 0;
             this.pictureBoxDisplay.TabStop = false;
+            this.pictureBoxDisplay.Click += new System.EventHandler(this.pictureBoxDisplay_Click);
             this.pictureBoxDisplay.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBoxDisplay_MouseMove);
+            // 
+            // buttonSetColour
+            // 
+            this.buttonSetColour.Location = new System.Drawing.Point(45, 37);
+            this.buttonSetColour.Name = "buttonSetColour";
+            this.buttonSetColour.Size = new System.Drawing.Size(125, 60);
+            this.buttonSetColour.TabIndex = 1;
+            this.buttonSetColour.Text = "Set Colour";
+            this.buttonSetColour.UseVisualStyleBackColor = true;
+            this.buttonSetColour.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1004, 578);
+            this.Controls.Add(this.buttonSetColour);
             this.Controls.Add(this.pictureBoxDisplay);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDisplay)).EndInit();
             this.ResumeLayout(false);
@@ -57,6 +72,8 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBoxDisplay;
+        private System.Windows.Forms.Button buttonSetColour;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 

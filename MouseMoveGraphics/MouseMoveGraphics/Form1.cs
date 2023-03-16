@@ -26,5 +26,15 @@ namespace MouseMoveGraphics
             //uses pen1 to draw a straight line from the middle of the screen to where your mouse is located
             paper.DrawLine(pen1, Width / 2, Height / 2, e.X, e.Y);
         }
+
+        private void pictureBoxDisplay_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            colorDialog1.ShowDialog();
+        }
     }
 }
