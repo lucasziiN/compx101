@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Nilesh's Business.exe" version="1.0.0.0" publicKeyToken="c7eece957b47a414" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Nilesh's Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Nilesh's Business.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Nilesh's Business.exe" size="13256">
+      <assemblyIdentity name="Nilesh's Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HSg1Je/UZ9umYht836pceLAy2EGuXGtZ5bOxLnFmF8Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Nilesh's Business.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LUCASZIN\lucasziN" issuerKeyHash="c622a598d4535a980513e6c4d50e7fa6652f2623" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>EOhr0mf2w1z+ncDlPhfyTseSAB/W3QpiUPo4AyUcJAU=</DigestValue></Reference></SignedInfo><SignatureValue>DUY706XZWr6k4VMmKEPDXHRmdGals5rSndjNiGMSNWSI3uPnuhCQl4ls/5+4nF8z6GjHJqUH4uRXLGl+UONUh+cvw58I2ekcqJXs685X0MlzDIKW+RJgZDgllNkWl86/pJYyy+PgfO1fqxl6L73VSeKgJrD3dietJUGHs+KAjaQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tBCXaofkk5BZSQaNGoyrkybGjk2Rbx8hjjN0pM0Hr3izjAu2wxnHa5iXecWFzdSXW9MjaffQXz0vAsKpMCjwcqBaCahpW+Ww0k4C35MxZ5Of1kL0YTzjPuQmY+mAHMO9l35GRN9r671rgnxEsWsoRxcNnt32+wXSxMe3xTgsba0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="05241c250338fa50620addd61f0092c74ef2173ee5c09dfe5cc3f667d26be810" Description="" Url=""><as:assemblyIdentity name="Nilesh's Business.exe" version="1.0.0.0" publicKeyToken="c7eece957b47a414" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LUCASZIN\lucasziN</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hN3LF6ZRBgULuRY1VbCROA3NiNBWZe7zotlHTMqPnd4=</DigestValue></Reference></SignedInfo><SignatureValue>bk7v0uIKpAYGZtazjhH+qJD9mHplADDKjJPtIjsOwJgYr5dQoCmGp2GKbPkxe7usSPHQKL/Mrd4MMCjpg5WDXRDQXlTI9+BngjVYk4Spy9U09L0dJ4aA4asrButvoRsJk8ruV7JSm44I6iAdeok0v3g3HS8IRDRS7+wMw2J8ATo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tBCXaofkk5BZSQaNGoyrkybGjk2Rbx8hjjN0pM0Hr3izjAu2wxnHa5iXecWFzdSXW9MjaffQXz0vAsKpMCjwcqBaCahpW+Ww0k4C35MxZ5Of1kL0YTzjPuQmY+mAHMO9l35GRN9r671rgnxEsWsoRxcNnt32+wXSxMe3xTgsba0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQOVSBD40j669NP0RKT3erUTANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATABVAEMAQQBTAFoASQBOAFwAbAB1AGMAYQBzAHoAaQBOMB4XDTIzMDMyMDA5MDYzMFoXDTI0MDMxOTE1MDYzMFowLTErMCkGA1UEAx4iAEwAVQBDAEEAUwBaAEkATgBcAGwAdQBjAGEAcwB6AGkATjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtBCXaofkk5BZSQaNGoyrkybGjk2Rbx8hjjN0pM0Hr3izjAu2wxnHa5iXecWFzdSXW9MjaffQXz0vAsKpMCjwcqBaCahpW+Ww0k4C35MxZ5Of1kL0YTzjPuQmY+mAHMO9l35GRN9r671rgnxEsWsoRxcNnt32+wXSxMe3xTgsba0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAQGSd6kNIyfZ007JLIYf3ie39xIi0YT8TNIBP4VvWHl8Tn2WvEycVnATcN9rrpl5Dg7XrfERGVovcJfBwf2NiFvwFohqSgqdELTbYs7LpYygBGouk6wRQfVmMDw8hTRAs++7YR1tiipHVmWwuzO2nklphbMGBie4XZA6ct/CtOKg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

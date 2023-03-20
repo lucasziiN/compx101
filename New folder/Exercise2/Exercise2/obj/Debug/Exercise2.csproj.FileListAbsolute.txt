@@ -1,0 +1,11 @@
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\lucasziN\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
