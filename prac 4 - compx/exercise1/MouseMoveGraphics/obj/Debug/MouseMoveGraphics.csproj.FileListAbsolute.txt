@@ -1,0 +1,33 @@
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe.config
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.pdb
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.AssemblyReference.cache
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Form1.resources
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Properties.Resources.resources
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.GenerateResource.cache
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.exe
+C:\Users\lucasziN\source\repos\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.pdb
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe.config
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.pdb
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.AssemblyReference.cache
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.SuggestedBindingRedirects.cache
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Form1.resources
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Properties.Resources.resources
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.GenerateResource.cache
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.CoreCompileInputs.cache
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.exe
+H:\101\Week 2\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.pdb
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe.config
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.pdb
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Form1.resources
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.exe
+C:\Users\lucasziN\Desktop\compx101-main\MouseMoveGraphics\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.pdb

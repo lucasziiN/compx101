@@ -1,0 +1,30 @@
+C:\Users\lucasziN\Desktop\exercise3\exercise3\bin\Debug\exercise3.exe.config
+C:\Users\lucasziN\Desktop\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\Users\lucasziN\Desktop\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.Form1.resources
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.pdb
+C:\Users\lucasziN\Desktop\exercise3\exercise3\bin\Debug\exercise3.exe.manifest
+C:\Users\lucasziN\Desktop\exercise3\exercise3\bin\Debug\exercise3.application
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.exe.manifest
+C:\Users\lucasziN\Desktop\exercise3\exercise3\obj\Debug\exercise3.application
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\bin\Debug\exercise3.exe.config
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\bin\Debug\exercise3.exe.manifest
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\bin\Debug\exercise3.application
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.Form1.resources
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.exe.manifest
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.application
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\Users\lucasziN\Desktop\prac 4 - compx\exercise3\exercise3\obj\Debug\exercise3.pdb
